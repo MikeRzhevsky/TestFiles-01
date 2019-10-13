@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "url": "https://github.com/Leodrak26/TestFiles-01.git",
+      "type": "git"
+    }
+  ],
+  "require": {
+    //"gedmo/doctrine-extensions": "~2.3"
+  }
+}
